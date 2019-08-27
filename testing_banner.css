@@ -1,0 +1,179 @@
+@font-face{font-family:'Artifakt';font-style:normal;font-weight:300;src:url("https://fonts.autodesk.com/ArtifaktElement/EOT/Artifakt%20Element%20Light.eot");src:url("https://fonts.autodesk.com/ArtifaktElement/EOT/Artifakt%20Element%20Light.eot?#iefix") format("embedded-opentype"),url("https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Light.woff2") format("woff2"),url("https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Light.woff") format("woff"),url("https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Light.ttf") format("truetype")}
+@font-face{font-family:'Artifakt';font-style:normal;font-weight:400;src:url("https://fonts.autodesk.com/ArtifaktElement/EOT/Artifakt%20Element%20Regular.eot");src:url("https://fonts.autodesk.com/ArtifaktElement/EOT/Artifakt%20Element%20Regular.eot?#iefix") format("embedded-opentype"),url("https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Regular.woff2") format("woff2"),url("https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Regular.woff") format("woff"),url("https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Regular.ttf") format("truetype")}
+@font-face{font-family:'Artifakt';font-style:normal;font-weight:700;src:url("https://fonts.autodesk.com/ArtifaktElement/EOT/Artifakt%20Element%20Medium.eot");src:url("https://fonts.autodesk.com/ArtifaktElement/EOT/Artifakt%20Element%20Medium.eot?#iefix") format("embedded-opentype"),url("https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Medium.woff2") format("woff2"),url("https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Medium.woff") format("woff"),url("https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Medium.ttf") format("truetype")}
+@font-face{font-family:'Artifakt Legend';font-weight:300;src:url("https://fonts.autodesk.com/ArtifaktLegend/EOT/Artifakt%20Legend%20Light.eot");src:url("https://fonts.autodesk.com/ArtifaktLegend/EOT/Artifakt%20Legend%20Light.eot?#iefix") format("embedded-opentype"),url("https://fonts.autodesk.com/ArtifaktLegend/WOFF2/Artifakt%20Legend%20Light.woff2") format("woff2"),url("https://fonts.autodesk.com/ArtifaktLegend/WOFF/Artifakt%20Legend%20Light.woff") format("woff"),url("https://fonts.autodesk.com/ArtifaktLegend/TTF/Artifakt%20Legend%20Light.ttf") format("truetype")}
+@font-face{font-family:'Artifakt Legend';font-weight:400;src:url("https://fonts.autodesk.com/ArtifaktLegend/EOT/Artifakt%20Legend%20Regular.eot");src:url("https://fonts.autodesk.com/ArtifaktLegend/EOT/Artifakt%20Legend%20Regular.eot?#iefix") format("embedded-opentype"),url("https://fonts.autodesk.com/ArtifaktLegend/WOFF2/Artifakt%20Legend%20Regular.woff2") format("woff2"),url("https://fonts.autodesk.com/ArtifaktLegend/WOFF/Artifakt%20Legend%20Regular.woff") format("woff"),url("https://fonts.autodesk.com/ArtifaktLegend/TTF/Artifakt%20Legend%20Regular.ttf") format("truetype")}
+@font-face{font-family:'Artifakt Legend';font-weight:700;src:url("https://fonts.autodesk.com/ArtifaktLegend/EOT/Artifakt%20Legend%20Medium.eot");src:url("https://fonts.autodesk.com/ArtifaktLegend/EOT/Artifakt%20Legend%20Medium.eot?#iefix") format("embedded-opentype"),url("https://fonts.autodesk.com/ArtifaktLegend/WOFF2/Artifakt%20Legend%20Medium.woff2") format("woff2"),url("https://fonts.autodesk.com/ArtifaktLegend/WOFF/Artifakt%20Legend%20Medium.woff") format("woff"),url("https://fonts.autodesk.com/ArtifaktLegend/TTF/Artifakt%20Legend%20Medium.ttf") format("truetype")}
+.thumbnail {
+    position: relative;
+    top: 0px;
+    padding: 0px;
+}
+.my-row2 {
+    
+    margin-right: 0px;
+   
+}
+#autodesk-image{
+	width: 341.97px;
+	height:37px;
+	padding-left: 15px;
+	margin-bottom: 15px;
+}
+
+.my-row {
+    position: absolute;
+    top: 12%;
+    left: 25px;
+    margin-right: 0px;
+   
+}
+#img-responsive{
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+    
+}
+#hero-text-heading-2{
+    color:#444;
+    width: 100%;
+    padding-left: 15px;
+    font-size: 3rem;
+    margin-top: 0px; 
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Artifakt Legend';
+}
+#hero-text-paragraph-1{
+    font-weight: 700;
+    font-size: 3rem;
+    padding-left: 15px;
+    padding-right: 0px;
+    font-family: 'Artifakt Legend';
+}
+#subscript{
+    font-size: 14px;
+    color: #666;
+    margin-left: -8px;
+
+}
+#button{
+    width: 325px;
+    height: 39px;
+    background-color: #fff;
+    margin-left: 15px;
+    border-right: 1px solid #666666;
+}
+#button-field{
+    width: 283px;
+    height: 39px;
+    background-color: red;
+    padding: .565em 1em .5em 1em;
+    color: #fff ;
+    vertical-align: middle;
+    font-weight: 700;
+    float: left;
+    font-family: 'Artifakt';
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+.icon-b{
+    width: 32px;
+    height: 39px;
+    background-color: red;
+    float: left;
+    padding: .565em 1em .5em 1em;
+    font-size: 1.6rem;
+    color:#fff;
+    font-weight: 700;
+
+}
+#button2{
+    width: auto;
+    height: 39px;
+
+    background-color: transparent;
+    
+}
+#icon2-b{
+    width: 24px;
+    height: 24px;
+    float: left;
+    
+    padding-top: 7.5px;
+}
+#is{
+    font-size: 20px;
+    background-color: red;
+    color: #fff;
+    border:2px solid red;
+    border-radius:50px;
+    
+}
+#text-b2{
+    float: left;
+    width: 180px;
+    margin-left: 5px;
+    padding-top: 7.5px;
+    height: 24px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: 'Artifakt';
+    color: #444444;
+}
+#style-hr{
+    margin-left: 15px;
+    background-color: red;
+    height: 1px;
+
+}
+#phone-call{
+    width: 654px;
+    height: 20px;
+    margin-left: 15px;
+    float: left;
+
+}
+#svg-call{
+    width: 20px;
+    height: 20px;
+    float:left;
+}
+
+.wd-icon,[class^='icon-svg-'],[class*=' icon-svg-']{display:inline-block;fill:currentColor;height:20px;width:20px}
+#text-call{
+    width: 320px;
+    height: 20px;
+    font-size: 1.4rem;
+    color: #444;
+    font-weight: 700;
+    font-family: 'Artifakt';
+    float: left;
+    padding-left: 10px;
+}
+
+#arrow-autodesk{
+    width: 654px;
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+#svg-arrow{
+    width: 20px;
+    height: 20px;
+    float:left;
+    
+}
+
+#arrow-icon-text{
+    width: 320px;
+    height: 20px;
+    font-size: 1.4rem;
+    color: #444;
+    font-weight: 700;
+    font-family: 'Artifakt';
+    float: left;
+    padding-left: 10px;
+}
+
+
